@@ -8,7 +8,7 @@ Vignette on using graph neural networks (GNNs) for molecular property prediction
 ## Contributors
 - Emily Tian (@emilytian0)
 - Pratyush Rallapally (@p-rallapally)
-- Jasper (@github-handle)
+- Jasper Luo(@JasperLuo0228)
 - Adarsh (@github-handle)
 - Nathan Kim (@nakim12)
 
